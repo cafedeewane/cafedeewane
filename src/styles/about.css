@@ -1,0 +1,175 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap");
+.about--section {
+  background-color: #bbe686;
+  padding: 58px 128px;
+  text-align: center;
+}
+
+.about--section .about-content-heading {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+  font-size: 44px;
+}
+
+.about--section .about-content-section {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
+
+.about--section .about-content {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.offers--section {
+  background-color: #f9ca7a;
+  padding: 64px;
+  text-align: center;
+}
+
+.offers--section .offers-heading {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+}
+
+.offers--section .offers-content {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.offers--section .offer-image {
+  height: 300px;
+  width: 300px;
+}
+
+.offers--section .offer-text {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+  padding-top: 10px;
+}
+
+.offers-button {
+  padding: 8px 24px;
+  border: none;
+  background-color: #6f3a27;
+  border-radius: 18px;
+  margin-top: 48px;
+  color: white;
+  font-weight: 400;
+}
+
+.orders--section {
+  background-color: #a4e6f0;
+  padding: 64px;
+}
+
+.orders--section .order-image {
+  height: 200px;
+  width: 200px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.orders--section .order-name {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.orders--section .order-col {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.orders--section .offers-container {
+  text-align: center;
+}
+
+.story--section {
+  background-color: #cfd7c9;
+  padding: 64px;
+}
+
+.story--section .story-heading {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 54px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.story--section .story-content {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  padding-top: 30px;
+}
+
+.story--section .story-image-col {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.story--section .story-image-col .story-image {
+  width: 500px;
+  height: 200px;
+}
+
+.story--section .story-content-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.footer--section {
+  background-color: #000000;
+}
+
+.footer--section .footer-image {
+  margin-right: 50px;
+  padding: 0;
+  height: 500px;
+}
+
+.footer--section .footer-content {
+  color: white;
+  margin-top: 30px;
+}
+/*# sourceMappingURL=about.css.map */
